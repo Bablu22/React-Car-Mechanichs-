@@ -1,0 +1,18 @@
+.login-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.login-btn button{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+
+@media screen and (max-width:640px) {
+    .login-container{
+        width: 80% !important;
+    }
+}
+

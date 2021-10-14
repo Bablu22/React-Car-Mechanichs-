@@ -1,0 +1,8 @@
+
+@media screen and (max-width:640px) {
+    .navbar-brand img{
+        width: 100% !important;
+        display: inline-block;
+    }
+}
+
